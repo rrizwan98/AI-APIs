@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+Pillow
+PyYAML
+fastapi
+uvicorn
+pydantic
+sqlmodel
