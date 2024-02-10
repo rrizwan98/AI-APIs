@@ -1,0 +1,6 @@
+prompt1: >
+  If dogs is present in the image, tell me the name
+prompt2: >
+  and also only count the number of dogs in the image
+prompt3: > 
+  Describe what's visible in this image about dogs, Return in JSON format
